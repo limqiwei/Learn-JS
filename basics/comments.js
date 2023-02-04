@@ -1,4 +1,6 @@
-// Javascript Comment Notes - A single line comment that will not run.
+// Javascript Notes - Comments
+
+// A single line comment that will not run.
 
 /*
 This is a multi-line comment.
