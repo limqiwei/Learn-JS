@@ -1,2 +1,5 @@
 # Learn-JS
-Some personal notes for javascript 
+My own notes for learning javascript.
+
+# Reference & Learning Site
+The Modern Javascript Tutorial - https://javascript.info
