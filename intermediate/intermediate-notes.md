@@ -67,5 +67,11 @@ The conversion algorithm goes like:
 Currently it seems like eventually either `toString()` or `valueOf()`. Usually defining `toString()` is enough for primitive type conversion, or catching it using the system symbol.
 
 ## Links to source code in this repository
-- [Objects](./objects.js)
+- Objects
+  - [Simple Object](./objects-simple.js)
+  - [Object Constructors & `this`](./objects-constructor.js)
+  - [Object Chaining](./objects-method-chaining.js)
+  - [Object Cloning](./objects-cloning.js)
+  - [Object Symbols](./objects-symbols.js)
+  - [Object Primitive Conversion](./objects-primitive-conversion.js)
 
