@@ -67,5 +67,5 @@ The conversion algorithm goes like:
 Currently it seems like eventually either `toString()` or `valueOf()`. Usually defining `toString()` is enough for primitive type conversion, or catching it using the system symbol.
 
 ## Links to source code in this repository
-- Objects   
+- [Objects](./objects.js)
 
