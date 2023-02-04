@@ -58,3 +58,4 @@ Variables are declared using `const`, `var` or `let` keywords and assigned from 
 ## Links to source code in this repository
 - [Comments](./basics/../comments.js)
 - [Ouput](./basics/../comments.js)
+- [Data Types, Variables \& Assignment](./basics/../data-types.js)
