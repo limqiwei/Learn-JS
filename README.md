@@ -10,10 +10,22 @@ This is notes written for Javascript. There are many common fundamentals covered
 This notes are purely for my own educational purpose. Anyone can view this resource if it benefits them. Also materials here are not meant to be exhaustive and might contain mistakes based on my level of understanding (and cause I am human).
 
 # Notes
-Notes are categorized into different levels based on my own preference. To start, click on any of the links below.
+Notes are categorized into different levels based on my own preference. Below are brief description of each section created, as we as the links to the page for further details.
 
-- [Basics](basics/basics-notes.md)
-- [Intermediate](intermediate/intermediate-notes.md)
+## Basics 
+Includes standard foundational concepts from output, logical constructs and functions. Core concepts can be applied across different languages generally.
+
+[[Go to page](./basics/README.md#basics-back-to-main)]
+
+## Javascript Objects
+Covers more details on javacsript objects and special components to note such as Symbols, constructor.
+
+[[Go to page](./javascript-objects/README.md#javascript-objects-back-to-main)]
+
+# Exercise & Code 
+Completed exercises & my solutions will be stored.
+
+[[Go to page]](/exercises/README.md#exercises-back-to-main).
 
 # Reference & Learning Site
 

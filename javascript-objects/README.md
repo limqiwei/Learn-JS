@@ -1,7 +1,7 @@
-# Intermediate Section
+# Javascript Objects _[[Back to Main](./../README.md#javascript-objects)]_
 
 # Table of Contents
-- [Intermediate Section](#intermediate-section)
+- [Javascript Objects _\[Back to Main\]_](#javascript-objects-back-to-main)
 - [Table of Contents](#table-of-contents)
 - [Objects](#objects)
   - [`this` in objects](#this-in-objects)

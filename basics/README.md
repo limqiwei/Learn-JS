@@ -1,4 +1,8 @@
-# Table of Contents
+# Basics _[[Back to Main](./../README.md#basics)]_
+Includes standard foundational concepts from output, logical constructs and functions. Core concepts can be applied across different languages generally. Covers mostly basics stuff.
+
+# Table of Contents 
+- [Basics _\[Back to Main\]_](#basics-back-to-main)
 - [Table of Contents](#table-of-contents)
 - [Comments](#comments)
   - [Single Line Comments](#single-line-comments)
